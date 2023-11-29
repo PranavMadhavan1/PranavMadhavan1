@@ -1,6 +1,7 @@
 # PranavMadhavan1
-- 👋 Hi, I’m @PranavMadhavan1
+- 👋 Hi, I’m Pranav Madhavan
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently Doing a DSA Challenge
 - 📫 How to reach me 
-        Email - pranavmadh01@gmail.com 
+        Email - contact.pranavm@gmail.com
+
